@@ -1,0 +1,6 @@
+Ivy Heath
+790941888
+MART120
+01.20.25
+
+While CLI and GUI are two ways to use a computer, they are very different. The CLI is like giving the computer a list of instructions by typing words into a black screen. You type out exactly what you want the computer to do, like opening files or running programs. This method is very fast for people who know what they’re doing, but it can be confusing for beginners because you have to remember a lot of specific commands. On the other hand, the GUI is what most people see when they use a computer. It’s the system with pictures, icons, and buttons that you can click with a mouse. It’s easier to use because you don’t need to type anything, just click on the pictures or buttons to do things like open apps or change settings. Most people prefer the GUI because it’s simple and doesn’t require much knowledge or information. However, it can be slower when you need to do more complicated tasks. Additionally, the CLI is older, while the GUI is newer and more modern; it is designed to be user-friendly and accessible for everyone. The CLI also allows the user more control and is more efficient.
